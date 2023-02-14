@@ -1,0 +1,13 @@
+.header {
+    height: 80px;
+    background-color: #7cadad;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+
+}
+
+.nav {
+    flex-direction: row-reverse;
+}
