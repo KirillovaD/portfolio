@@ -1,0 +1,29 @@
+.footerBlock{
+    display: flex;
+    background-color: #baffff;
+    align-items:center;
+}
+
+.footerContainer {
+    border: 1px solid black;
+
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+
+}
+.footerImg{
+    display: flex;
+    gap: 20px;
+
+}
+
+.footerImg img{
+    width: 30px;
+    height: 30px;
+    background-color: #564d67;
+}
+
+
+

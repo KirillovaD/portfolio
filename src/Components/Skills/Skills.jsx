@@ -11,7 +11,6 @@ function Skills() {
                 <div className={s.skills}>
                   <Skill/>
                 </div>
-
             </div>
 
         </div>
